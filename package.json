@@ -1,0 +1,34 @@
+{
+  "name": "uxmid-vue-web",
+  "version": "1.0.0",
+  "description": "vue2+ts写法的web组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yufan-zhao/uxmid-vue-web.git"
+  },
+  "author": "yufan-zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yufan-zhao/uxmid-vue-web/issues"
+  },
+  "homepage": "https://github.com/yufan-zhao/uxmid-vue-web#readme",
+  "peerDependencies": {
+    "uxmid-core": "^1.0.1",
+    "view-design": "^4.7.0",
+    "vue": "^2.6.14"
+  },
+  "dependencies": {
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6",
+    "vue-router": "^3.6.5",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
